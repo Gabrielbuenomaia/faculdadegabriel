@@ -9,4 +9,5 @@ urlpatterns = [
     url(r'^footer/', footer),
     url(r'^header/', header),
     url(r'^home/', home),
+    ]
     
